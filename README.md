@@ -1,2 +1,2 @@
 # HTML-and-CSS-Website-Kasper
-an HTML and CSS design - Kasper - Model2
+an HTML and CSS Design - Kasper - Model 2
