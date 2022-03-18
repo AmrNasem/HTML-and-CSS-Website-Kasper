@@ -206,7 +206,7 @@ header nav .toggle-menu:hover + ul {
 /* End Header */
 /* Start Landing */
 .landing {
-  background-image: url(../Images/landing.jpg);
+  background-image: url(../images/landing.jpg);
   height: 100vh;
   background-size: cover;
   position: relative;
